@@ -53,6 +53,41 @@
 > *En proceso de aprendizaje continuo: Angular, Django, React, Node.js...*
 
 ---
+### 📂 Proyectos destacados
+
+- 🔤 **Reconocimiento de Lengua de Signos**  
+  Sistema en tiempo real con Python, TensorFlow y MediaPipe para detectar palabras compuestas y letras mediante la webcam facilitando asi conversaciones.  
+  [🔗 Repositorio](https://github.com/Carlosvd7/reconocimiento-senas)
+
+- 📚 **Gestor de actividades culturales (Django)**  
+  Web para la gestión de actividades, usuarios y salas en un centro cultural. Incluye filtros, roles y diseño responsive.  
+  [🔗 Repositorio](https://github.com/Carlosvd7/centro-cultural-django)
+
+- 🗺️ App de Mapas con Angular y MongoDB
+Aplicación web para guardar y visualizar ubicaciones favoritas en un mapa interactivo.
+Permite buscar ciudades, ver su localización, y almacenarlas en una base de datos MongoDB a través de un backend en Node.js.
+Tecnologías: Angular, Node.js, Express, MongoDB, Leaflet
+[🔗 Repositorio](https://github.com/Carlosvd7/proyecto-mapas)
+
+- 🎓 Sistema de Gestión de Matrículas Universitarias
+
+Proyecto completo para la gestión de alumnos y expedientes académicos con arquitectura modular basada en microservicios, desarrollado con Java y Quarkus, y orquestado con Docker.
+
+   Arquitectura del sistema:
+   - **alumnos/**: microservicio REST que gestiona el registro y consulta de alumnos.
+   - **expedientes/**: microservicio para gestionar las asignaturas y calificaciones.
+   - **domain/**: módulo con clases compartidas entre microservicios (entidades, DTOs, enums...).
+   - **gateway/**: API Gateway que expone un punto de entrada unificado a través de rutas.
+   - **www/**: módulo web de presentación con interacción con el gateway.
+   - **docker-compose.yml**: define la base de datos y la red de contenedores.
+   [🔗 Repositorio](https://github.com/Carlosvd7/proyecto-matriculas-alumnos) 
+
+- ⚽ **Gestión de entradas para eventos deportivos (PHP)**  
+  Aplicación web en PHP para la venta y gestión de entradas a partidos de fútbol.  
+  Permite registrar eventos, gestionar disponibilidad de asientos y generar reportes.  
+  **Tecnologías:** PHP, MySQL, Bootstrap, HTML5  
+  [🔗 Repositorio](https://github.com/Carlosvd7/entradas-futbol) 
+  
 
 ### 📈 GitHub Stats
 <p align="center">
