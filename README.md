@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Carlosvd7/Carlosvd7/blob/main/banner.png?raw=true" alt="Banner" style="max-width: 1000px; width: 100%; height: auto;" />
+  <img src="https://github.com/Carlosvd7/Carlosvd7/blob/main/banner.png?raw=true" alt="Banner2" style="max-width: 1000px; width: 100%; height: auto;" />
 </p>
 
 
