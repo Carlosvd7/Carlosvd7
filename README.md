@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://i.imgur.com/tu-banner.png" alt="Banner" style="width:100%;" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/tu-foto.jpg" width="150" style="border-radius: 50%;" alt="Foto de perfil" />
+</p>
+
+
 <h1 align="center">👋 Hola, soy Carlos Manuel Velázquez Diego</h1>
 <h3 align="center">Estudiante de Ingeniería Informática en la Universidad Pontificia de Salamanca</h3>
 
