@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/Carlosvd7/Carlosvd7/blob/main/banner.png?raw=true" alt="Banner" style="width:100%;" />
+  <img src="https://github.com/Carlosvd7/Carlosvd7/blob/main/banner.png?raw=true" alt="Banner" style="max-width: 1000px; width: 100%; height: auto;" />
 </p>
+
 
 
 
