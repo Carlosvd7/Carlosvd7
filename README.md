@@ -74,12 +74,12 @@ Tecnologías: Angular, Node.js, Express, MongoDB, Leaflet
 Proyecto completo para la gestión de alumnos y expedientes académicos con arquitectura modular basada en microservicios, desarrollado con Java y Quarkus, y orquestado con Docker.
 
    Arquitectura del sistema:
-   - **alumnos/**: microservicio REST que gestiona el registro y consulta de alumnos.
-   - **expedientes/**: microservicio para gestionar las asignaturas y calificaciones.
-   - **domain/**: módulo con clases compartidas entre microservicios (entidades, DTOs, enums...).
-   - **gateway/**: API Gateway que expone un punto de entrada unificado a través de rutas.
-   - **www/**: módulo web de presentación con interacción con el gateway.
-   - **docker-compose.yml**: define la base de datos y la red de contenedores.
+   **alumnos/**: microservicio REST que gestiona el registro y consulta de alumnos.
+   **expedientes/**: microservicio para gestionar las asignaturas y calificaciones.
+   **domain/**: módulo con clases compartidas entre microservicios (entidades, DTOs, enums...).
+   **gateway/**: API Gateway que expone un punto de entrada unificado a través de rutas.
+   **www/**: módulo web de presentación con interacción con el gateway.
+   **docker-compose.yml**: define la base de datos y la red de contenedores.
    [🔗 Repositorio](https://github.com/Carlosvd7/proyecto-matriculas-alumnos) 
 
 - ⚽ **Gestión de entradas para eventos deportivos (PHP)**  
