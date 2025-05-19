@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="[https://i.imgur.com/tu-banner.png](https://github.com/Carlosvd7/Carlosvd7/blob/main/banner.png?raw=true)" alt="Banner" style="width:100%;" />
+  <img src="https://i.imgur.com/tu-banner.png](https://github.com/Carlosvd7/Carlosvd7/blob/main/banner.png?raw=true" alt="Banner" style="width:100%;" />
 </p>
-
 
 
 <h1 align="center">👋 Hola, soy Carlos Manuel Velázquez Diego</h1>
